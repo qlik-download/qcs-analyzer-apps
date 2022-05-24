@@ -1,0 +1,1 @@
+# Qlik Cloud Analyzer Apps
